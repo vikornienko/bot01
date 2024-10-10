@@ -1,0 +1,14 @@
+{
+  "name": "bot01",
+  "version": "1.0.0",
+  "description": "Self learning for bot coding.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikornienko",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
